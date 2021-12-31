@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEK,AAAD,mBAAQ,CAAC;EACL,KAAK,EAAE,GAAG;EACV,UAAU,EAAE,CAAC,CAAC,MAAM,CAAC,IAAI,CAAc,KAAO;CACjD",
+    "sources": [
+        "../js/components/composition.scss"
+    ],
+    "names": [],
+    "file": "composition.css"
+}
